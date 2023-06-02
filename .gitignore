@@ -2,5 +2,7 @@
 *.py
 #документ
 test.js
+test.html
+style.css
 #папка
 target/
