@@ -37,3 +37,15 @@
 - Второй элемент
   - 2.1v элемент
    
+[Мой GitHub](https://github.com/DanilKobets/test-2/tree/Work "Если интересно")
+
+![](https://habrastorage.org/getpro/habr/upload_files/574/bb2/a87/574bb2a8719a01dad2f63e803f550a66.png)
+
+1|2|3
+:---|:---:|---:
+да|нет|не знаю
+не знаю|нет|да
+нет|не знаю|да
+нет|да|не знаю
+да|не знаю|нет
+не знаю|да|нет
