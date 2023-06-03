@@ -62,3 +62,8 @@
 
 
 ~~***Version 2.3v***~~
+
+
+Length
+Bitcoin
+Ethernet
