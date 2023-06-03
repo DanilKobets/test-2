@@ -64,11 +64,6 @@
 ~~***Version 2.3v***~~
 
 
-
-
-
-
-
-
-
-**Tangen Wallet is responsible**
+Length
+Bitcoin
+Ethernet
