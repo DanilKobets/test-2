@@ -64,6 +64,7 @@
 ~~***Version 2.3v***~~
 
 
-Length
-Bitcoin
-Ethernet
+const
+sdkVersion
+and
+  sdkVersion
