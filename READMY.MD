@@ -64,7 +64,10 @@
 ~~***Version 2.3v***~~
 
 
-const
-sdkVersion
-and
-  sdkVersion
+Length
+Bitcoin
+Ethernet
+xrp
+illuvium
+TengenWallet
+Msc
