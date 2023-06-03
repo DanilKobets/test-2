@@ -3,6 +3,9 @@
 #документ
 test.js
 .editorconfig
+<<<<<<< HEAD
 csharp.cs
+=======
+>>>>>>> Work
 #папка
 target/
