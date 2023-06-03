@@ -1,0 +1,7 @@
+#файл р.
+*.py
+#документ
+test.js
+.editorconfig
+#папка
+target/
